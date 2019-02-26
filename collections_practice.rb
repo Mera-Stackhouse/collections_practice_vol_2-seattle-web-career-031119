@@ -47,7 +47,6 @@ end
 
 
 def merge_data(array1, array2)
-<<<<<<< HEAD
   i = 0
   array2.each {|element|
     element.each {|key, value|
@@ -87,15 +86,3 @@ def organize_schools(hash)
   }
   new_hash
 end
-=======
-
-end
-
-def find_cool
-  
-end
-
-def organize_schools
-  
-end 
->>>>>>> c79726d2eb8fc078d738b850cef8e6d1ea75f699
